@@ -4,11 +4,15 @@ github.com/CrestFallenTurtle/Go-tools v0.0.0-20230706173116-8d290e2c9782 h1:wRYM
 github.com/CrestFallenTurtle/Go-tools v0.0.0-20230706173116-8d290e2c9782/go.mod h1:DiqqXxJuvPPoPhlYeJqCVpgBCp9yTYXENlDxJjOGPUY=
 github.com/CrestFallenTurtle/Go-tools v0.0.0-20230706181801-762717eda163 h1:7gfT0qJtYLumVQJlydZTHoYwD6AEp7t66n1w4+hba4A=
 github.com/CrestFallenTurtle/Go-tools v0.0.0-20230706181801-762717eda163/go.mod h1:Lg+5vcBzJKRT9x5ynItzhNw95G7zeS25D+NgFgeFaiM=
+github.com/CrestFallenTurtle/Go-tools v0.0.0-20240731080848-8b21b2564b6d h1:6jujP+0z+rUakq6EEH+5iOHMliIJnFlSGiZAFP1WA+w=
+github.com/CrestFallenTurtle/Go-tools v0.0.0-20240731080848-8b21b2564b6d/go.mod h1:VaGRUXSD0B05k8CPB9gk41S55za8jw4+k2/at9+7erk=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20220414214026-7cbc65f663ea h1:ENRxm6DdCRYiq2xVM+RHA6IPzXaeaqRa86+3l8jfpUk=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20220414214026-7cbc65f663ea/go.mod h1:QNjxlxplV4bgRq0hMkD/ssRExdUmsuqql+lRh9afWgA=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20230706175840-9ab369714294 h1:oxBND9Sx1O9EaLpItcuECm69IlcdT2TP4O6Vh8TAqTU=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20230706175840-9ab369714294/go.mod h1:ylFsSqBcuOKbMkWRvO7V+qlP2w7Qfaw5BK+eEsx/JhE=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20230706181218-ead5290ab95f h1:jQF9IePKSodS8NfVFrIZCnwM/klp/Tg3micw1sklrjY=
 github.com/CrestFallenTurtle/notify_handler v0.0.0-20230706181218-ead5290ab95f/go.mod h1:ylFsSqBcuOKbMkWRvO7V+qlP2w7Qfaw5BK+eEsx/JhE=
+github.com/CrestFallenTurtle/notify_handler v0.0.0-20240731080725-9b497d0a93ba h1:Rk9Oe8lLsxYNBiVpWzJQbW+6rgpxCQmFbKIEOkop4Ws=
+github.com/CrestFallenTurtle/notify_handler v0.0.0-20240731080725-9b497d0a93ba/go.mod h1:pst2PNtfveK5/a69VGaR6rZr0VsJvTnWbUR7gK4YspM=
 github.com/thanhpk/randstr v1.0.6 h1:psAOktJFD4vV9NEVb3qkhRSMvYh4ORRaj1+w/hn4B+o=
 github.com/thanhpk/randstr v1.0.6/go.mod h1:M/H2P1eNLZzlDwAzpkkkUvoyNNMbzRGhESZuEQk3r0U=
